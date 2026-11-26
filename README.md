@@ -1,10 +1,10 @@
 ## Muscle signals control an RC car
 
-[![A hand closes and opens beside the RC car, with recording electrodes attached to the forearm.](media/emg-rc-car.gif)](https://github.com/charleskim990819/Biopotential-EXG-sPCB/blob/master/images/operating%20RC%20car%20with%20EXG.mp4)
+[![A hand closes and opens beside the RC car, with recording electrodes attached to the forearm.](media/emg-rc-car.gif)](https://www.charleskim99.com/projects/stretchable-exg/#rc-car-demo)
 
 When the hand closes, electrodes on the forearm pick up the muscle signal that controls the car. I also [adapted the sensing circuit](https://github.com/charleskim990819/Biopotential-EXG-sPCB) for a stretchable board using liquid-metal traces.
 
-[Full video (21 s, MP4)](https://raw.githubusercontent.com/charleskim990819/Biopotential-EXG-sPCB/master/images/operating%20RC%20car%20with%20EXG.mp4) · [Circuit and mask files](https://github.com/charleskim990819/Biopotential-EXG-sPCB/tree/master/hardware)
+[Watch the full 21-second demo](https://www.charleskim99.com/projects/stretchable-exg/#rc-car-demo) · [Circuit and mask files](https://github.com/charleskim990819/Biopotential-EXG-sPCB/tree/master/hardware)
 
 ## Selected work
 
